@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# parametrul scriptului
 stop=$1;
 a=0
 b=1
